@@ -1,8 +1,7 @@
 # [Target-Action 实现组件解耦](http://www.jianshu.com/p/76132c91be47)
 
-# CTMediator 使用方式
+# CTMediator 的使用
 
-[toc]
 
 ## 一、普通页面跳转用法
 
